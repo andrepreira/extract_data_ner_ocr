@@ -1,0 +1,1 @@
+# NER_OCR_PROJECT
